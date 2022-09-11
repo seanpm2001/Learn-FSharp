@@ -48,6 +48,19 @@
 *.srt linguist-detectable=true
 *.srt linguist-documentation=false
 *.srt linguist-language=SubRip-Text
+# F# source file
+*.fs linguist-detectable=true
+*.fs linguist-documentation=false
+*.fs linguist-language=F#
+*.fsi linguist-detectable=true
+*.fsi linguist-documentation=false
+*.fsi linguist-language=F#
+*.fsx linguist-detectable=true
+*.fsx linguist-documentation=false
+*.fsx linguist-language=F#
+*.fsscript linguist-detectable=true
+*.fsscript linguist-documentation=false
+*.fsscript linguist-language=F#
 # YAML (YAML Ain't Markup Language) document
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
 *.yml linguist-detectable=false
@@ -164,7 +177,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Sunday, September 11th at 3:27 pm PST)
+# Line count (including blank lines and compiler line): 184
 # End of script
